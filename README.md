@@ -12,3 +12,4 @@ idle cimmit
 idle commit
 me commit
 
+sourcetree commit
